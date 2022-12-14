@@ -1,2 +1,8 @@
 # Riska
+
 Gyakorló repó. Riska a tehén weblap
+
+- git clone https://repo-url
+- git add .
+- git commit
+  - amennyiben a neved és emailed még nincs meg adva, akkor két paranccsal be kell álltani, de ezeket megsúgja.
