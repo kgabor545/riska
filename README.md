@@ -6,3 +6,8 @@ Gyakorló repó. Riska a tehén weblap
 - git add .
 - git commit
   - amennyiben a neved és emailed még nincs meg adva, akkor két paranccsal be kell álltani, de ezeket megsúgja.
+- TOKEN generálás
+- remote url-be token beillesztés:
+  - url lekérdezése: git config --get remote.origin.url
+  - url beálltása: git config remote.origin.url https://TOKEN@github.com/...
+- git push
